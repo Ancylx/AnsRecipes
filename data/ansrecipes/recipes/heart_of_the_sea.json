@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:prismarine_bricks"
+        },
+        {
+            "item": "minecraft:dark_prismarine"
+        },
+        {
+            "item": "minecraft:prismarine_bricks"
+        },
+        {
+            "item": "minecraft:dark_prismarine"
+        },
+        {
+            "item": "minecraft:wet_sponge"
+        },
+        {
+            "item": "minecraft:dark_prismarine"
+        },
+        {
+            "item": "minecraft:prismarine_bricks"
+        },
+        {
+            "item": "minecraft:dark_prismarine"
+        },
+        {
+            "item": "minecraft:prismarine_bricks"
+        }
+    ],
+    "result": {
+        "item": "minecraft:heart_of_the_sea",
+        "count": 1
+    }
+}

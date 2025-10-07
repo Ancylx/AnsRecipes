@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#A#",
+        "AWA",
+        "#A#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:obsidian"
+        },
+        "A": {
+            "item": "minecraft:amethyst_cluster"
+        },
+        "W": {
+            "item": "minecraft:amethyst_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:budding_amethyst",
+        "count": 1
+    }
+}

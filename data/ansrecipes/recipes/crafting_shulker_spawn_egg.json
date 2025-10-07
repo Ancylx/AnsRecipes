@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "CNC",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        },
+        "C": {
+            "item": "minecraft:chorus_fruit"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_spawn_egg",
+        "count": 1
+    }
+}

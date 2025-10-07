@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#W#",
+        "WHW",
+        "#W#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:rotten_flesh"
+        },
+        "W": {
+            "item": "minecraft:warped_fungus"
+        },
+        "H": {
+            "item": "minecraft:hoglin_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:zoglin_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "BSB",
+        "#B#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:snowball"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "S": {
+            "item": "minecraft:skeleton_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:stray_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "PTP",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:chorus_fruit"
+        },
+        "P": {
+            "item": "minecraft:popped_chorus_fruit"
+        },
+        "T": {
+            "item": "minecraft:turtle_helmet"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_shell",
+        "count": 1
+    }
+}

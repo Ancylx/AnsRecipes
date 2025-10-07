@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:warped_fungus"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        },
+        {
+            "item": "minecraft:netherrack"
+        },
+        {
+            "item": "minecraft:netherrack"
+        }
+    ],
+    "result": {
+        "item": "minecraft:warped_nylium",
+        "count": 2
+    }
+}

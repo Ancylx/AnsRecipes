@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#GD",
+        "WTW",
+        "DG#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:prismarine_bricks"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "D": {
+            "item": "minecraft:dark_prismarine"
+        },
+        "W": {
+            "item": "minecraft:wet_sponge"
+        },
+        "T": {
+            "item": "minecraft:guardian_spawn_egg"
+        }
+    },
+    "result": {
+        "item": "minecraft:elder_guardian_spawn_egg",
+        "count": 1
+    }
+}

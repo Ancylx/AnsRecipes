@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S#",
+        "DHD",
+        "COC"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:amethyst_block"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        },
+        "D": {
+            "item": "minecraft:dragon_breath"
+        },
+        "H": {
+            "item": "minecraft:sniffer_egg"
+        },
+        "C": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:dragon_egg",
+        "count": 1
+    }
+}

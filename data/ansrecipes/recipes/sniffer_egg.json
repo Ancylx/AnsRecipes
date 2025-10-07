@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "NTN",
+        "OCO"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:moss_block"
+        },
+        "N": {
+            "item": "minecraft:netherrack"
+        },
+        "T": {
+            "item": "minecraft:turtle_egg"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "C": {
+            "item": "minecraft:crying_obsidian"
+        }
+    },
+    "result": {
+        "item": "minecraft:sniffer_egg",
+        "count": 1
+    }
+}
