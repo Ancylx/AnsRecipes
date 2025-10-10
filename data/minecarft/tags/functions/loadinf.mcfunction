@@ -1,1 +1,1 @@
-tellraw @a [{"translate": "Successfully loaded ","color": "gray"},{"translate": "AnsRecipes","color": "green"}]
+tellraw @a [{"text":"Successfully loaded ","color": "gray"},{"text": "AnsRecipes","color": "green"}]

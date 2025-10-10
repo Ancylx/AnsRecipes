@@ -1,5 +1,6 @@
 {
+    "replace": false,    
     "values" : [
-        "ansrecipes:loadinf"
+        "ansrecipes:loadinfo"
     ]
 }
