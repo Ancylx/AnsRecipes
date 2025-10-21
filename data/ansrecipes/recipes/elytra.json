@@ -1,21 +1,19 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "#D#",
-        "P P",
-        "P P"
-    ],
-    "key": {
-        "#": {
-            "item": "minecraft:popped_chorus_fruit"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:phantom_membrane"
         },
-        "D": {
-            "item": "minecraft:dragon_breath"
+        {
+            "item": "minecraft:phantom_membrane"
         },
-        "P": {
+        {
+            "item": "minecraft:phantom_membrane"
+        },
+        {
             "item": "minecraft:phantom_membrane"
         }
-    },
+    ],
     "result": {
         "item": "minecraft:elytra",
         "count": 1
