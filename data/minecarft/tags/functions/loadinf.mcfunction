@@ -1,1 +1,0 @@
-tellraw @a [{"text":"Successfully loaded ","color": "gray"},{"text": "AnsRecipes","color": "green"}]
